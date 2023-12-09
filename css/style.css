@@ -1,0 +1,13 @@
+p{
+    font-size: 20px;    
+}
+.BTTN{
+    width: 200PX;
+    height: 60px;
+    background-color:teal;
+    color: white;
+}
+.BTTN:hover{
+    background-color:black;
+    color: white;
+}
